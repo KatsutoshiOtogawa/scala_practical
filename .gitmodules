@@ -1,0 +1,3 @@
+[submodule "mongodb-driver-examples"]
+	path = mongodb-driver-examples
+	url = https://github.com/mongolab/mongodb-driver-examples.git
